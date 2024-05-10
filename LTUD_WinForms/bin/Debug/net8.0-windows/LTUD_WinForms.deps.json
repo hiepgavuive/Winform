@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LTUD_WinForms/1.0.0": {
+        "runtime": {
+          "LTUD_WinForms.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LTUD_WinForms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
