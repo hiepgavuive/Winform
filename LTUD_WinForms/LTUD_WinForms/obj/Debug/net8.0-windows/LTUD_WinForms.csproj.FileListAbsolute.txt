@@ -1,0 +1,16 @@
+D:\Code\C#\LTUD_WinForms\LTUD_WinForms\obj\Debug\net8.0-windows\LTUD_WinForms.csproj.GenerateResource.cache
+D:\Code\C#\LTUD_WinForms\LTUD_WinForms\obj\Debug\net8.0-windows\LTUD_WinForms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\C#\LTUD_WinForms\LTUD_WinForms\obj\Debug\net8.0-windows\LTUD_WinForms.AssemblyInfoInputs.cache
+D:\Code\C#\LTUD_WinForms\LTUD_WinForms\obj\Debug\net8.0-windows\LTUD_WinForms.AssemblyInfo.cs
+D:\Code\C#\LTUD_WinForms\LTUD_WinForms\obj\Debug\net8.0-windows\LTUD_WinForms.csproj.CoreCompileInputs.cache
+D:\Code\C#\LTUD_WinForms\LTUD_WinForms\bin\Debug\net8.0-windows\LTUD_WinForms.exe
+D:\Code\C#\LTUD_WinForms\LTUD_WinForms\bin\Debug\net8.0-windows\LTUD_WinForms.deps.json
+D:\Code\C#\LTUD_WinForms\LTUD_WinForms\bin\Debug\net8.0-windows\LTUD_WinForms.runtimeconfig.json
+D:\Code\C#\LTUD_WinForms\LTUD_WinForms\bin\Debug\net8.0-windows\LTUD_WinForms.dll
+D:\Code\C#\LTUD_WinForms\LTUD_WinForms\bin\Debug\net8.0-windows\LTUD_WinForms.pdb
+D:\Code\C#\LTUD_WinForms\LTUD_WinForms\obj\Debug\net8.0-windows\LTUD_WinForms.dll
+D:\Code\C#\LTUD_WinForms\LTUD_WinForms\obj\Debug\net8.0-windows\refint\LTUD_WinForms.dll
+D:\Code\C#\LTUD_WinForms\LTUD_WinForms\obj\Debug\net8.0-windows\LTUD_WinForms.pdb
+D:\Code\C#\LTUD_WinForms\LTUD_WinForms\obj\Debug\net8.0-windows\LTUD_WinForms.genruntimeconfig.cache
+D:\Code\C#\LTUD_WinForms\LTUD_WinForms\obj\Debug\net8.0-windows\ref\LTUD_WinForms.dll
+D:\Code\C#\LTUD_WinForms\LTUD_WinForms\obj\Debug\net8.0-windows\LTUD_WinForms.MainForm.resources
